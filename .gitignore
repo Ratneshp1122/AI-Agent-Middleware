@@ -1,0 +1,13 @@
+# Logs
+logs/
+*.log
+*.jsonl
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# MacOS
+.DS_Store
